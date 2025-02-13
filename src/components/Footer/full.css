@@ -1,0 +1,29 @@
+.one {
+    height: 360px;
+    background-color:  aliceblue;
+}
+
+.two {
+    height: 360px;
+    background-color:  #323F44;
+
+}
+
+.three {
+    position: absolute;
+    top: 0%;
+    /* z-index: 1; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.conta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
+}
+#ones{
+    background-color: white;
+}
