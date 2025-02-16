@@ -27,7 +27,7 @@ const CustomNavbar = () => {
           {toggle ?  
           <div className="col d-none d-lg-block col-6">
             <ul className="ul text-light mt-3">
-              <li className="li nav-link "><Link style={{textDecoration:"none",color:"aliceblue"}} to='/'>Home</Link></li>
+              <li className="li nav-link "><Link style={{textDecoration:"none",color:"aliceblue"}} to='/2A_project'>Home</Link></li>
               <li className="li nav-link"><Link style={{textDecoration:"none",color:"aliceblue"}} to='/courses'>Courses</Link></li>
               <li className="li nav-link"><Link style={{textDecoration:"none",color:"aliceblue"}} to='/teachers'>Our Teachers</Link></li>
               <li className="li nav-link"><Link style={{textDecoration:"none",color:"aliceblue"}} to='/about'>About</Link> </li>
