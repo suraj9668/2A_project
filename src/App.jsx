@@ -15,7 +15,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path='/' element={<PageHome></PageHome>}/>
+        <Route path='/2A_project' element={<PageHome></PageHome>}/>
         <Route path='/courses' element={<PageSec></PageSec>}/>
         <Route path='/teachers' element={<PageThird></PageThird>}/>
         <Route path='/about' element={ <PageFour></PageFour>}/>
